@@ -1,0 +1,10 @@
+{
+  "name": "p8_example",
+  "version": "0.0.1",
+  "author": "jozanza",
+  "main": "./index.lua",
+  "description": "example p8 project",
+  "dependencies": {
+    "perf": "https://raw.githubusercontent.com/jozanza/pico_modules/master/perf.moon"
+  }
+}
